@@ -1,6 +1,5 @@
 
-
-//Comment
+# Comment
 def main(msg):
     print(msg)
 
